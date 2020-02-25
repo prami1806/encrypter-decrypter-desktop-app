@@ -1,2 +1,2 @@
 # encrypter-decrypter-desktop-app
-An encryption/decryption desktop application made using Java Swing
+An encryption/decryption desktop application, implementing the Caesar Cipher, made using Java Swing.
